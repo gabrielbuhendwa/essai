@@ -1,3 +1,7 @@
 @use '../Utils/'as u;
 
-
+@include u.breakpoint(laptop){
+    .principal_block{
+        width: 90%;
+    }
+}
