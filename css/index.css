@@ -59,5 +59,6 @@ button a {
 @media (max-width: 978px) {
   .principal_block {
     width: 90%;
+    margin-top: 30px;
   }
 }/*# sourceMappingURL=index.css.map */
